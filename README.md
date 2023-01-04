@@ -19,3 +19,5 @@ Predict if a borrower will pay back their loan using Neural Network
    1.3 Creating the Model
 
 ## Section 4) Evaluate the Model
+
+# Note: "lending_club.csv" which contains the actual data is bigger than 25M, therefore, couldn't be uploaded on GitHub
